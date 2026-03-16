@@ -56,10 +56,5 @@ If Apache shuts down unexpectedly in XAMPP:
     - If you need to change it back, edit `C:\xampp\apache\conf\httpd.conf` (for 8080) and `C:\xampp\apache\conf\extra\httpd-ssl.conf` (for 4433).
     - Access the site via `http://localhost:8080/LibraTrack`.
 
-## 👥 Team
-- **Web Application Build:** [Member Name]
-- **Documentation & Reporting:** [Team Members]
-- **Screenshots & Written Report:** [Team Members]
-
 ---
 *Developed to solve manual record-keeping challenges and improve real-time library operations.*
