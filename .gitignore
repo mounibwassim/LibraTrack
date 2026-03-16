@@ -1,0 +1,7 @@
+# .gitignore
+/uploads/assets/*
+!/uploads/assets/.gitkeep
+/node_modules/
+.qodo/
+.gemini/
+*.log
