@@ -47,7 +47,7 @@ LibraTrack is a digital solution designed to replace traditional paper-based lib
     - Choose the `library_management.sql` file located in the project root and click **Go**.
 3.  **Run the Application:**
     - Start **Apache** in the XAMPP Control Panel.
-    - Visit `http://localhost:8080/LibraTrack` in your browser..............................
+    - Visit `http://localhost:8080/LibraTrack` in your browser.................................
 
 ## 🔧 Troubleshooting Apache Shutdown
 If Apache shuts down unexpectedly in XAMPP:
